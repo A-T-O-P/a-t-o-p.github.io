@@ -1,0 +1,37 @@
+.header-image-1 {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../photos/aaron-burden-unsplash.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.header-image-2 {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../photos/lauren-mancke-unsplash.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.vertical-align{
+	vertical-align: middle;
+}
+
+.background-color-1-custom{
+	background-color:#38b6ff;
+}
+
+.background-color-2-custom{
+	background-color:#57da98;
+}
+
+.background-color-3-custom{
+	background-color:#7acbce;
+}
+
+.border-radius-4{
+	border-radius: 4px;
+}
