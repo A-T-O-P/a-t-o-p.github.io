@@ -20,6 +20,10 @@
 	vertical-align: middle;
 }
 
+.fancyfont{
+    font-family: "meedori_sansbold";
+}
+
 .background-color-1-custom{
 	background-color:#38b6ff;
 }
@@ -38,4 +42,12 @@
 
 .filltoheight{
     height:100%;
+}
+
+.makebigger{
+    font-size:1.75em;
+}
+
+.subtitle, .title{
+    font-family: "meedori_sansbold";
 }
